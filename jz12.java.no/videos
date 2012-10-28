@@ -1,0 +1,166 @@
+<!DOCTYPE html SYSTEM "about:legacy-compat">
+<html lang="en" class="no-js" xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+      <title>JavaZone 2012</title>
+      <meta name="viewport" content="initial-scale = 0.6"></meta>
+      <link type="image/x-icon" rel="shortcut icon" href="img/favicon.ico"></link>
+      <link rel="stylesheet" href="css/style.css"></link>
+      <link rel="stylesheet" href="css/jz.css"></link>
+      <script type="text/javascript" src="http://use.typekit.com/cti1mmi.js"></script>
+      <script type="text/javascript"> try{Typekit.load();}catch(e){} </script>
+      <!-- <link href="http://jz11.java.no/atom.xml" title="JavaZone nyheter" type="application/atom+xml" rel="alternate"/> -->
+      <!--[if IE]><script type="text/javascript" src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    </head>
+    <body lang="en">
+
+    <div class="min" id="line">
+      <a href="videos#">12-13 Sept 2012</a>
+      <a class="last">Oslo Spektrum, Norway</a>
+    </div>
+
+    <a class="med" id="splash" href="index.html"></a>
+    <a class="max" id="sidesplash" href="index.html"></a>
+    <a class="min" id="minsplash" href="index.html"></a>
+    <div class="max" id="side"></div>
+
+
+    <a class="max" href="videos">
+      <img src="img/longtext.png" id="longtext"></img>
+    </a>
+
+    <a class="med" href="videos">
+      <img src="img/text.png" id="text-horizontal"></img>
+    </a>
+
+    <a href="videos">
+      <img src="img/splashlogo.png" id="splashlogo"></img>
+    </a>
+
+    <div id="c1"><div id="c2"><div id="c4">
+
+    <div id="menu">
+      <div id="menuelement-0"><a href="index.html">News</a></div>
+      <div class="high" id="menuelement-1"><a href="program">Program</a></div>
+      <div class="high" id="menuelement-2"><a href="tickets">Tickets</a></div>
+      <div id="menuelement-3"><a href="cfs.html">Speakers</a></div>
+      <div class="high" id="menuelement-4"><a href="partners">Partners</a></div>
+      <div id="menuelement-5"><a href="awezone">Awezone</a></div>
+      <div id="menuelement-6"><a href="videos">Videos</a></div>
+      <div class="high last" id="menuelement-7"><a href="about">About</a></div>
+    </div>
+
+    <div id="main">
+      
+      <div class="body bigbody hyphenate">
+        
+        
+        <div><h2 xmlns="http://www.w3.org/1999/xhtml">
+<a name="Videos-JavaZoneVideos" id="Videos-JavaZoneVideos"></a>JavaZone Videos</h2>
+<p xmlns="http://www.w3.org/1999/xhtml">
+<b>Videos</b> has been the hallmark feature of every years JavaZone
+for several years. Check out our awesome promo videos.</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"></hr>
+<h2 xmlns="http://www.w3.org/1999/xhtml">
+<a name="Videos-2012" id="Videos-2012"></a>2012</h2>
+<p xmlns="http://www.w3.org/1999/xhtml">The Java Heist</p>
+<iframe frameborder="0" src="http://www.youtube.com/embed/HXvm76e2X1Q" style="width: 730px; height: 401px" type="text/html" class="youtube-player" xmlns="http://www.w3.org/1999/xhtml"></iframe> 
+<p xmlns="http://www.w3.org/1999/xhtml">Teaser for The Java Heist of 2012!</p>
+<iframe allowfullscreen="" mozallowfullscreen="" webkitallowfullscreen="" frameborder="0" height="401" width="730" src="http://player.vimeo.com/video/44098786" xmlns="http://www.w3.org/1999/xhtml"></iframe> 
+<hr xmlns="http://www.w3.org/1999/xhtml"></hr>
+<h2 xmlns="http://www.w3.org/1999/xhtml">
+<a name="Videos-2011" id="Videos-2011"></a>2011</h2>
+<p xmlns="http://www.w3.org/1999/xhtml">In 2011, JavaZone was more scary than ever! The media even used
+the phrase &quot;
+<a rel="nofollow" class="external-link" href="http://www.digi.no/877395/arrangerer-javazone-for-tiende-gang">Hold deg fast</a>&quot;, can you
+get a higher praise than that? We don't think so...</p>
+<iframe frameborder="0" src="http://www.youtube.com/embed/5U1_KW6ww7Y" style="width: 730px; height: 401px" type="text/html" class="youtube-player" xmlns="http://www.w3.org/1999/xhtml"></iframe> 
+<hr xmlns="http://www.w3.org/1999/xhtml"></hr>
+<h2 xmlns="http://www.w3.org/1999/xhtml">
+<a name="Videos-2010" id="Videos-2010"></a>2010</h2>
+<p xmlns="http://www.w3.org/1999/xhtml">
+<b>The windowsian commmunity</b> is no huge fan of Java as we can
+see from the trailer Java-4-ever. But the Norwegian Pizza-queen
+definitely is!</p>
+<iframe frameborder="0" src="http://www.youtube.com/embed/kLO1djacsfg" style="width: 730px; height: 401px" type="text/html" class="youtube-player" xmlns="http://www.w3.org/1999/xhtml"></iframe> 
+<iframe frameborder="0" src="http://www.youtube.com/embed/1JZnj4eNHXE" style="width: 730px; height: 401px" type="text/html" class="youtube-player" xmlns="http://www.w3.org/1999/xhtml"></iframe> 
+<hr xmlns="http://www.w3.org/1999/xhtml"></hr>
+<h2 xmlns="http://www.w3.org/1999/xhtml">
+<a name="Videos-Videosfromthesessionsandlightningspeeches" id="Videos-Videosfromthesessionsandlightningspeeches"></a>Videos
+from the sessions and lightning speeches</h2>
+<p xmlns="http://www.w3.org/1999/xhtml">
+<b>JavaZone</b> have filmed talks for the past years and made them
+publicaly available for both attendees and others. Among the filme
+talks available are the ones from 
+<a rel="nofollow" class="external-link" href="http://tcs.java.no/tcs/#page:conferenceList&amp;status:recorded&amp;pageNumber:1">JavaZone 2009</a>, 
+<a rel="nofollow" class="external-link" href="http://streaming.java.no/tcs/#page:recordingList&amp;pageNumber:1&amp;category:DFA06647-6DF6-4FE1-943E-903DF9C74B12">JavaZone 2010</a> and last
+years 
+<a rel="nofollow" class="external-link" href="http://vimeo.com/javazone/videos">JavaZone X</a></p>
+</div>
+      </div>
+
+      <div class="side side2">
+        <div><h2 xmlns="http://www.w3.org/1999/xhtml">
+  <a name="AboutJavaZone-AboutJavaZone" id="AboutJavaZone-AboutJavaZone"></a>
+  <a rel="nofollow" class="external-link" href="http://www.javazone.no">About JavaZone</a>
+</h2>
+<p xmlns="http://www.w3.org/1999/xhtml">JavaZone is an important meeting place for software developers
+in Scandinavia, and is the biggest community driven conference of
+its kind. JavaZone has been described as a high quality,
+independent conference – a leading forum for knowledge
+exchange for IT-professionals. All speakers are selected by
+the independent Program Committee.</p>
+<p xmlns="http://www.w3.org/1999/xhtml">Over 30 large and mid-sized companies – our partners
+– exhibit their brand and services/products during the
+conference. Without partners, volunteers, the speakers and the
+participants, the conference would not be possible.</p>
+</div>
+        <div class="spacer"></div>
+        <div><h2 xmlns="http://www.w3.org/1999/xhtml">
+  <a name="AboutjavaBin-AboutjavaBin" id="AboutjavaBin-AboutjavaBin"></a>
+  <a rel="nofollow" class="external-link" href="http://www.java.no">About javaBin</a>
+</h2>
+<p xmlns="http://www.w3.org/1999/xhtml">javaBin is a non-profit, independent organization. The purpose
+is to promote Java expertise among members, member firms and the
+market. javaBin is headquartered in Oslo, with subgroups in
+Stavanger, Bergen, Trondheim and in southern Norway. In 2009 the
+group had over 2,000 members from over 210 companies.</p>
+<p xmlns="http://www.w3.org/1999/xhtml">javaBin arranges monthly meetings for its members. The meetings
+are a good way to strengthen the Java platform and is a venue for
+sharing experiences and information in addition to being a social
+arena that links people across firms and institutions.</p>
+</div>
+      </div>
+      <div class="clear"></div>
+    </div>
+
+    <div id="footer">
+      <p>
+        <a href="http://twitter.com/#!/javazone"><img src="img/social/twitter.png"></img></a>
+        <a href="http://www.facebook.com/javabin"><img src="img/social/facebook.png"></img></a>
+        <a href="http://www.youtube.com/user/JavaZoneNo"><img src="img/social/youtube.png"></img></a>
+        <a href="http://vimeo.com/javazone/videos"><img src="img/social/vimeo.png"></img></a>
+      </p>
+      <p class="text">JavaZone.no - shipped in cooperation with <a target="_blank" href="http://accenture.no">Accenture Creative Services</a></p>
+      <p class="text">All images and text are Creative Commons BY-SA 2.0 Licensed</p>
+    </div>
+
+    </div></div></div>
+    <div class="clear"></div>
+    <script src="js/libs/jquery-1.6.2.min.js"></script>
+    <script src="js/libs/jquery.color.js"></script>
+    <script src="js/libs/respond.min.js"></script>
+    <script src="js/hyphenator.js"></script>
+    <script src="js/script.js"></script>
+    <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-3676724-5']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+  </script>
+    </body>
+    </html>

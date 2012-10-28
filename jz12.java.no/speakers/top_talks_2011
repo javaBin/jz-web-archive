@@ -1,0 +1,203 @@
+<!DOCTYPE html SYSTEM "about:legacy-compat">
+<html lang="en" class="no-js" xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+      <title>JavaZone 2012</title>
+      <meta name="viewport" content="initial-scale = 0.6"></meta>
+      <link type="image/x-icon" rel="shortcut icon" href="../img/favicon.ico"></link>
+      <link rel="stylesheet" href="../css/style.css"></link>
+      <link rel="stylesheet" href="../css/jz.css"></link>
+      <script type="text/javascript" src="http://use.typekit.com/cti1mmi.js"></script>
+      <script type="text/javascript"> try{Typekit.load();}catch(e){} </script>
+      <!-- <link href="http://jz11.java.no/atom.xml" title="JavaZone nyheter" type="application/atom+xml" rel="alternate"/> -->
+      <!--[if IE]><script type="text/javascript" src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    </head>
+    <body lang="en">
+
+    <div class="min" id="line">
+      <a href="top_talks_2011#">12-13 Sept 2012</a>
+      <a class="last">Oslo Spektrum, Norway</a>
+    </div>
+
+    <a class="med" id="splash" href="../index.html"></a>
+    <a class="max" id="sidesplash" href="../index.html"></a>
+    <a class="min" id="minsplash" href="../index.html"></a>
+    <div class="max" id="side"></div>
+
+
+    <a class="max" href="top_talks_2011">
+      <img src="../img/longtext.png" id="longtext"></img>
+    </a>
+
+    <a class="med" href="top_talks_2011">
+      <img src="../img/text.png" id="text-horizontal"></img>
+    </a>
+
+    <a href="top_talks_2011">
+      <img src="../img/splashlogo.png" id="splashlogo"></img>
+    </a>
+
+    <div id="c1"><div id="c2"><div id="c4">
+
+    <div id="menu">
+      <div id="menuelement-0"><a href="../index.html">News</a></div>
+      <div class="high" id="menuelement-1"><a href="../program">Program</a></div>
+      <div class="high" id="menuelement-2"><a href="../tickets">Tickets</a></div>
+      <div id="menuelement-3"><a href="../cfs.html">Speakers</a></div>
+      <div class="high" id="menuelement-4"><a href="../partners">Partners</a></div>
+      <div id="menuelement-5"><a href="../awezone">Awezone</a></div>
+      <div id="menuelement-6"><a href="../videos">Videos</a></div>
+      <div class="high last" id="menuelement-7"><a href="../about">About</a></div>
+    </div>
+
+    <div id="main">
+      
+      <div class="body bigbody hyphenate">
+        <div class="donthyphenate" id="submenu">
+      <!-- siblings -->
+      <ul>
+        <li><a href="journeyzone">JourneyZone</a></li>
+        <li><a href="top_talks_2011">Top talks 2011</a></li>
+        
+      </ul>
+    </div>
+        
+        <div><h2 xmlns="http://www.w3.org/1999/xhtml">
+<a name="Toptalks2011-TopTalks2011" id="Toptalks2011-TopTalks2011"></a>Top Talks 2011</h2>
+<p xmlns="http://www.w3.org/1999/xhtml">During the JavaZone conference we ask the participants to rate
+the presentations they attend. These are the top talks at JavaZone
+2011 according to that rating.</p>
+<h3 xmlns="http://www.w3.org/1999/xhtml">
+<a name="Toptalks2011-Presentations%3A" id="Toptalks2011-Presentations%3A"></a>Presentations:</h3>
+<p xmlns="http://www.w3.org/1999/xhtml">1. Daniel Spiewak (
+<a rel="nofollow" class="external-link" href="https://twitter.com/#!/@djspiewak">@djspiewak</a>): Extreme Cleverness: Functional Data
+Structures in Scala (
+<a rel="nofollow" class="external-link" href="http://vimeo.com/28760673">video</a>)
+<br></br>2. Børge Lotre (
+<a rel="nofollow" class="external-link" href="https://twitter.com/#!/@blotre">@blotre</a>) &amp; Eirik Wang (
+<a rel="nofollow" class="external-link" href="https://twitter.com/#!/@eirikwang">@eirikwang</a>): ReKu - Erfaringer fra
+moderniseringen av verdens mest komplette storfedatabase (
+<a rel="nofollow" class="external-link" href="http://vimeo.com/28761194">video</a>)
+<br></br>3. Bjørn Nordlund (
+<a rel="nofollow" class="external-link" href="https://twitter.com/#!/@bjornno">@bjornno</a>) &amp; Rune Peter Bjørnstad (
+<a rel="nofollow" class="external-link" href="https://twitter.com/#!/@runepeter">@runepeter</a>): Er Apache Camel riktig valg for
+deg? Lytt til erfarne Camel spotters. (
+<a rel="nofollow" class="external-link" href="http://vimeo.com/28760446">video</a>)
+<br></br>4. Chris Richardson (
+<a rel="nofollow" class="external-link" href="https://twitter.com/#!/@crichardson">@crichardson</a>): Polyglot persistence for Java
+developers - moving out of the relational comfort zone (
+<a rel="nofollow" class="external-link" href="http://vimeo.com/28769090">video</a>)
+<br></br>5. Daniel Spiewak (
+<a rel="nofollow" class="external-link" href="https://twitter.com/#!/@djspiewak">@djspiewak</a>): High Wizardry in the Land of Scala
+(
+<a rel="nofollow" class="external-link" href="http://vimeo.com/28793245">video</a>)
+<br></br>6. Angelika Langer: The Art of Garbage Collector Tuning (for
+the SUN/Oracle JVM) (
+<a rel="nofollow" class="external-link" href="http://vimeo.com/28761227">video</a>)
+<br></br>7. James Ward (
+<a rel="nofollow" class="external-link" href="https://twitter.com/#!/@_JamesWard">@_JamesWard</a>): Deploying Apps on Heroku (
+<a rel="nofollow" class="external-link" href="http://vimeo.com/28803302">video</a>)
+<br></br>8. Dick Wall (
+<a rel="nofollow" class="external-link" href="https://twitter.com/#!/@dickwall">@dickwall</a>): Dependency Injection Options in
+Scala (
+<a rel="nofollow" class="external-link" href="http://vimeo.com/28792660">video</a>)
+<br></br>9. Kaare Nilsen (
+<a rel="nofollow" class="external-link" href="https://twitter.com/#!/@kaarenilsen">@kaarenilsen</a>): Men så hør da! Du
+bruker det feil (dust) (
+<a rel="nofollow" class="external-link" href="http://vimeo.com/28760967">video</a>)
+<br></br>t-10. Angelika Langer: The Java Memory Model (
+<a rel="nofollow" class="external-link" href="http://vimeo.com/28763316">video</a>)
+<br></br>t-10. Aslak Johannessen (
+<a rel="nofollow" class="external-link" href="https://twitter.com/#!/@aslakjo">@aslakjo</a>): Jobbe i skyen, hva kan verden
+gjøre med din WAR app? (
+<a rel="nofollow" class="external-link" href="http://vimeo.com/28803184">video</a>)</p>
+<h3 xmlns="http://www.w3.org/1999/xhtml">
+<a name="Toptalks2011-Lightningtalks%3A" id="Toptalks2011-Lightningtalks%3A"></a>Lightning talks:</h3>
+<p xmlns="http://www.w3.org/1999/xhtml">1. Christin Gorman (
+<a rel="nofollow" class="external-link" href="https://twitter.com/#!/@ChristinGorman">@ChristinGorman</a>):
+Hibernate should be to programmers what cake mixes are to bakers:
+beneath their dignity. (
+<a rel="nofollow" class="external-link" href="http://vimeo.com/28885655">video</a>)
+<br></br>2. Stein Magnus Jodal (
+<a rel="nofollow" class="external-link" href="https://twitter.com/#!/jodal">@jodal</a>): Hva alle utviklere må vite om
+tegnsettenkoding (
+<a rel="nofollow" class="external-link" href="http://vimeo.com/28764541">video</a>)
+<br></br>3. Glenn Bech (
+<a rel="nofollow" class="external-link" href="https://twitter.com/#!/glennbech">@glennbech</a>): Android for baksideutviklere (
+<a rel="nofollow" class="external-link" href="http://vimeo.com/28719530">video</a>)
+<br></br>4. Magnar Sveen (
+<a rel="nofollow" class="external-link" href="https://twitter.com/#!/magnars">@magnars</a>): Ryddig kode og trivelig testing ved
+å wrappe ajaxen din (
+<a rel="nofollow" class="external-link" href="http://vimeo.com/28764670">video</a>)
+<br></br>5. Terje Heen (
+<a rel="nofollow" class="external-link" href="https://twitter.com/#!/tlheen">@tlheen</a>): Kjenn ditt domene - bruk av
+verdiobjekter (
+<a rel="nofollow" class="external-link" href="http://vimeo.com/28717488">video</a>)</p>
+</div>
+      </div>
+
+      <div class="side side2">
+        <div><h2 xmlns="http://www.w3.org/1999/xhtml">
+  <a name="AboutJavaZone-AboutJavaZone" id="AboutJavaZone-AboutJavaZone"></a>
+  <a rel="nofollow" class="external-link" href="http://www.javazone.no">About JavaZone</a>
+</h2>
+<p xmlns="http://www.w3.org/1999/xhtml">JavaZone is an important meeting place for software developers
+in Scandinavia, and is the biggest community driven conference of
+its kind. JavaZone has been described as a high quality,
+independent conference – a leading forum for knowledge
+exchange for IT-professionals. All speakers are selected by
+the independent Program Committee.</p>
+<p xmlns="http://www.w3.org/1999/xhtml">Over 30 large and mid-sized companies – our partners
+– exhibit their brand and services/products during the
+conference. Without partners, volunteers, the speakers and the
+participants, the conference would not be possible.</p>
+</div>
+        <div class="spacer"></div>
+        <div><h2 xmlns="http://www.w3.org/1999/xhtml">
+  <a name="AboutjavaBin-AboutjavaBin" id="AboutjavaBin-AboutjavaBin"></a>
+  <a rel="nofollow" class="external-link" href="http://www.java.no">About javaBin</a>
+</h2>
+<p xmlns="http://www.w3.org/1999/xhtml">javaBin is a non-profit, independent organization. The purpose
+is to promote Java expertise among members, member firms and the
+market. javaBin is headquartered in Oslo, with subgroups in
+Stavanger, Bergen, Trondheim and in southern Norway. In 2009 the
+group had over 2,000 members from over 210 companies.</p>
+<p xmlns="http://www.w3.org/1999/xhtml">javaBin arranges monthly meetings for its members. The meetings
+are a good way to strengthen the Java platform and is a venue for
+sharing experiences and information in addition to being a social
+arena that links people across firms and institutions.</p>
+</div>
+      </div>
+      <div class="clear"></div>
+    </div>
+
+    <div id="footer">
+      <p>
+        <a href="http://twitter.com/#!/javazone"><img src="../img/social/twitter.png"></img></a>
+        <a href="http://www.facebook.com/javabin"><img src="../img/social/facebook.png"></img></a>
+        <a href="http://www.youtube.com/user/JavaZoneNo"><img src="../img/social/youtube.png"></img></a>
+        <a href="http://vimeo.com/javazone/videos"><img src="../img/social/vimeo.png"></img></a>
+      </p>
+      <p class="text">JavaZone.no - shipped in cooperation with <a target="_blank" href="http://accenture.no">Accenture Creative Services</a></p>
+      <p class="text">All images and text are Creative Commons BY-SA 2.0 Licensed</p>
+    </div>
+
+    </div></div></div>
+    <div class="clear"></div>
+    <script src="../js/libs/jquery-1.6.2.min.js"></script>
+    <script src="../js/libs/jquery.color.js"></script>
+    <script src="../js/libs/respond.min.js"></script>
+    <script src="../js/hyphenator.js"></script>
+    <script src="../js/script.js"></script>
+    <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-3676724-5']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+  </script>
+    </body>
+    </html>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="no">
+	<head>
+		<title>JavaZone 2010</title>
+		<link rel="stylesheet" href="style/stylesheet_2010.css" media="all" />
+		<link rel="stylesheet" href="lib/jquery/jquery.twitter.css" media="all" />
+		<link rel="stylesheet" href="lib/jquery/jquery.lightbox-0.5.css" media="all" />
+		<link href="atom.xml" title="JavaZone nyheter" type="application/atom+xml" rel="alternate">
+		<script type="text/javascript">
+
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-3676724-3']);
+		_gaq.push(['_trackPageview']);
+
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+		</script>
+	</head>
+	<body>
+		<div id="header" class="center">
+			<a title="Javazone - Forsiden" href="index.html"><img src="style/gfx/logo.png" alt="Javazone 2010" title="Javazone - Forsiden" /></a>
+			<div class="searchfield">
+				<form action="java-4-ever-teaser2.html" method="" name="search">
+					<input type="text" name="searchword" id="searchword" />
+					<input type="submit" value="" id="submitsearch" />
+				</form>
+			</div>
+		</div>
+		<div id="mainmenu">
+			<ul>
+				<li class="home"><a class="main-menu" href="index.html">Home</a></li>
+				<li class="registration"><a class="main-menu" href="http://shop.java.no">Registration</a></li>
+				<li class="program"><a class="main-menu" href="agenda">Program</a></li>
+				<li class="partners"><a class="main-menu" href="partners.html">Partners</a></li>
+				<li class="contact"><a class="main-menu" href="contact.html">Contact</a></li>
+				<li class="about"><a class="main-menu" href="about.html">About JavaZone</a></li>
+				<li class="clubzone"><a class="main-menu" href="clubzone.html">ClubZone</a></li>
+			</ul>
+		</div>
+		<div id="greyfield">
+			<div id="greyfield_content">
+				<img src="images/newjavazone.png" style="float:left;margin:30px 0 0 0" alt="New Javazone" />
+				<img src="images/foredragsholdere.png" style="float:left;" alt="Foredragsholdere" />
+				<div id="submenu">
+                    <!--
+					<span>Next happenings</span>
+					<hr />
+					<ul>
+						<li>&raquo;&nbsp;<a href="http://wiki.java.no/">TBA: Last JZ10 Weekend Workshop before summer</a></li>
+						<li>&raquo;&nbsp;<a href="partners.html">TBA: Partner meeting</a></li>
+						<li>&raquo;&nbsp;<a href="program.html">TBA: Announce program</a></li>
+					</ul>
+					<hr />
+                    -->
+				</div>
+			</div>
+		</div>
+		<div id="content">
+			<div id="news">
+		<h1>Teaser 2</h1>
+<hr />
+<div>
+<br/>
+<script type='text/javascript' src='mediaplayer/swfobject.js'></script>
+ 
+<div id='mediaspace'>This video requires Flash</div>
+ 
+<script type='text/javascript'>
+  var so = new SWFObject('mediaplayer/player.swf','mpl','640','360','9');
+  so.addParam('allowfullscreen','true');
+  so.addParam('allowscriptaccess','always');
+  so.addParam('wmode','opaque');
+  so.addVariable('file','JavaZoneTeaser2.flv');
+  so.addVariable('image','mediaplayer/snippet2_preview.jpg');
+  so.write('mediaspace');
+</script>
+</div>
+
+
+<div id="disqus_thread"></div>
+
+</div>
+
+			<div id="blog">
+	  			<h2>
+					JavaBlog
+					<span class="follow">
+						<img src="style/gfx/folg_oss.png" /><a href="http://www.facebook.com/group.php?gid=91662203099"><img src="style/gfx/facebook.png" alt="Facebook" /></a><a href="http://twitter.com/javazone"><img src="style/gfx/twitter.png" alt="Twitter" /></a>
+					</span>
+				</h2>
+				<div id="twitter">
+				  <p><a href="http://twitter.com/javazone">http://twitter.com/javazone</a></p>
+				</div>
+			</div>
+		</div>
+        <p>&nbsp;</p>
+		<div id="footer">
+			<p class="small">JavaZone.no - shipped in cooperation with <a href="http://www.bekk.no/" alt="bekk.no">BEKK</a>. Header photos by <a href="http://www.fotogal.no/" alt="fotogal.no">Andre Eide</a>. (All images are Creative Commons BY-SA 2.0 Licensed)</p>
+		</div>
+		<script type="text/javascript" src="lib/jquery/jquery-1.3.2.min.js"></script>
+		<script type="text/javascript" src="lib/jquery/jquery.twitter.js"></script>
+		<script type="text/javascript" src="lib/jquery/jquery.lightbox-0.5.min.js"></script>
+		<script type="text/javascript">
+			$(document).ready(function() {
+				$("#twitter").getTwitter({
+					userName: "javazone",
+					numTweets: 5,
+					loaderText: "Loading tweets...",
+					slideIn: true,
+					slideDuration: 750,
+					showHeading: false,
+					headingText: "Latest Tweets",
+					showProfileLink: true,
+					showTimestamp: true
+				});
+				$(function() {
+					$('a.lightbox').lightBox(); // Select all links with lightbox class
+				});
+				$('a.main-menu').each(function () {
+
+					if(window.location.href.indexOf($(this).attr('href')) > 0) {
+						console.log('YAY: ' + window.location.href + ' href: ' + $(this).attr('href'));
+						$(this).parent().addClass('active');
+					}
+				});
+			});
+		</script>
+		<script type="text/javascript" src="js/disqus.js">
+		</script>
+	</body>
+</html>
